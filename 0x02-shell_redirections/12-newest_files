@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dta | head -n 10
+ls -ta| head -n 10
