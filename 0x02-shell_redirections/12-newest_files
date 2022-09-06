@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dta */ | head -n 10
+find . -type d | ls -dta | head -n 10
